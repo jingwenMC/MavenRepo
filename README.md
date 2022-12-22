@@ -8,3 +8,11 @@ Simple Maven Public Repo Service
         </repository>
     </repositories>
 
+or using fastgit mirror service  
+
+    <repositories>
+        <repository>
+            <id>jingwenmc-repo-fastgit</id>
+            <url>https://raw.fastgit.org/jingwenMC/MavenRepo/master</url>
+        </repository>
+    </repositories>
