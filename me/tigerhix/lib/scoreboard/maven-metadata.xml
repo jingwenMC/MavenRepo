@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.tigerhix.lib</groupId>
+  <artifactId>scoreboard</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221222071510</lastUpdated>
+  </versioning>
+</metadata>
